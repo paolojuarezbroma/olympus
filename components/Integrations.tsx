@@ -120,7 +120,7 @@ const Integrations: React.FC<IntegrationsProps> = ({ profile, setProfile }) => {
               <h3 className="text-2xl font-cinzel font-bold text-ivory">Apple Health Link</h3>
               <p className="text-gray-500 text-sm mt-2 leading-relaxed">
                 1. Open Health App on iPhone<br/>
-                2. Tap Profile > Export All Health Data<br/>
+                2. Tap Profile &gt; Export All Health Data<br/>
                 3. Upload the <code className="text-[#D4AF37]">export.xml</code> here.
               </p>
             </div>
