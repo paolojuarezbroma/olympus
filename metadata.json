@@ -1,0 +1,7 @@
+{
+  "name": "Olympus - Longevity & Age Reversal",
+  "description": "A high-performance longevity companion that provides a full week plan for age reversal, including supplement tracking, meal recommendations, and a real-time voice interface for lifestyle coaching.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
